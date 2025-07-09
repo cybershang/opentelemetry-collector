@@ -2,6 +2,16 @@
 
 **Status**: [Beta](https://github.com/open-telemetry/opentelemetry-specification/blob/main/oteps/0232-maturity-of-otel.md#beta)
 
+**Documentation Language**: [English](#) | [中文](architecture-overview-zh.md)
+
+## Architecture Documentation
+
+- [Internal Architecture](internal-architecture.md) - Technical architecture for contributors
+- [Architecture Overview (中文)](architecture-overview-zh.md) - Chinese architecture overview
+- [Internal Architecture (中文)](internal-architecture-zh.md) - Chinese technical architecture
+
+---
+
 The OpenTelemetry Collector consists of the following components:
 
 * A mechanism that _MUST_ be able to load and parse an [OpenTelemetry Collector configuration

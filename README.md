@@ -48,6 +48,8 @@
 
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OpenTelemetry Icon" width="45" height=""> OpenTelemetry Collector
 
+*[English](README.md) | [中文架构文档](docs/architecture-overview-zh.md)*
+
 The OpenTelemetry Collector offers a vendor-agnostic implementation on how to
 receive, process and export telemetry data. In addition, it removes the need
 to run, operate and maintain multiple agents/collectors in order to support
